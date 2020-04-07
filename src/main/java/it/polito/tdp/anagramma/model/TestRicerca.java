@@ -11,7 +11,7 @@ public class TestRicerca {
 		System.out.println(ana_dog) ;
 		
 		List<String> ana_vac = ric.anagrammi("vacanze") ;
-		System.out.println(ana_vac) ;
+		System.out.println(ana_vac) ; //(7 fattoriale)
 
 		List<String> ana_prg = ric.anagrammi("programmazione") ;
 		System.out.println(ana_prg) ;
